@@ -1,0 +1,10 @@
+# Coloring Problem, generated at: Sun Feb 21 19:34:26 EST 2021
+# Colors, should result in no assignment?
+colors = 3
+# Graph: 
+1,2
+2,3
+3,4
+4,1
+2,4
+1,3
